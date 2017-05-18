@@ -1,2 +1,2 @@
 # HelloIME
-Kotlin製のAndroid用IMEです
+Kotlin製Android用IMEのサンプルです
